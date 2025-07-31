@@ -26,3 +26,6 @@ Embedded C / Arduino C
 
 📷 Project Image
 
+![Dam Automation Setup](https://github.com/Ruchithaaz/IoTDamAutomation/blob/main/iotdamauto.png?raw=true)
+
+
